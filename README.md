@@ -15,7 +15,8 @@
 2.下載 AI_Maid 並解壓縮
 
 3.下載 VOICEVOX ENGINE   (語音包)  後解壓縮到 AI_Maid 的資料夾內
-https://github.com/VOICEVOX/voicevox_engine/releases/tag/0.14.2
+
+Voicevox下載網址：https://github.com/VOICEVOX/voicevox_engine/releases/tag/0.14.2
 
 4.接著打開 cmd 並切換至 AI_maid 的資料夾
 
